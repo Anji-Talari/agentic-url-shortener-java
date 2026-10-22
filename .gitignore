@@ -1,0 +1,30 @@
+
+# Maven build output
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Local database files
+*.mv.db
+*.trace.db
+
+# Secrets and environment files
+.env
+.env.*
+application-local.properties
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+data/
